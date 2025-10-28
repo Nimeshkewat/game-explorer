@@ -1,7 +1,7 @@
 import React from 'react'
 import Home from './pages/Home'
 import {Routes, Route} from 'react-router-dom'
-import Navbar from './components/NavBar'
+import Navbar from './components/Navbar'
 import GameDetails from './pages/GameDetails'
 import Favourites from './pages/Favourite'
 
